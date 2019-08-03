@@ -1,0 +1,13 @@
+{
+  "field_root" : "root",
+  "feature": {
+    "field1": 2,
+    "field2": "12.11.2019",
+    "field3": ["val3","val1"],
+    "isSomeFeatureEnabled" : true,
+    "nestedConfig": {
+      "nestedField1": 19,
+      "nestedField2": "custom value"
+    }
+  }
+}

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Configen Sample</string>
+    <string name="developer_settings">Developer settings</string>
 </resources>
